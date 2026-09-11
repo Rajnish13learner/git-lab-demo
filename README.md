@@ -1,2 +1,2 @@
 # Git & GitHub Lab Demo
-Footer: Light Theme
+Footer: Adaptive System Theme (Light/Dark)
